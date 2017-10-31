@@ -1,6 +1,7 @@
 MODBUS CRC
 ========
 注意：crc的初始值应为0xffff
+========
 
 These are examples of calculating MODBUS CRC.
 
